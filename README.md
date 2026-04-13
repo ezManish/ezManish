@@ -108,6 +108,10 @@ public class Manish extends BackendDeveloper implements ContinuousLearner {
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ezManish/ezManish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
 ---
 
 ## *Let's Connect*
