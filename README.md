@@ -34,7 +34,7 @@ SPECIALTY        :  Backend Systems Engineering
 CURRENT OBJ.     :  Mastering distributed backend architecture
 THREAT LEVEL     :  Dangerously consistent
 KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
-████████████     :  CORRUPTED ENTRY REMOVED
+████████████     :  ███ corrupted payload ███
 ```
 
 </td>
@@ -55,42 +55,28 @@ KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
 <br/>
 
 <div align="center">
-<code>[ TRANSMISSION STREAM STABLE ] · AWAITING TERMINAL INTERACTION...</code>
+<code>[ TRANSMISSION STREAM STABLE ] · SELECT TERMINAL MODE BELOW</code>
 </div>
 
 <br/>
 
 <details>
-<summary><b>&nbsp; &gt; retrieve capabilities_index --filter=cleared</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
+<summary><b>&nbsp; [1] &nbsp;RECRUITER_VIEW &nbsp;·&nbsp; EXEC SUMMARY &amp; OUTCOMES</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE · FAST FETCH</kbd></summary>
 
 <br/>
 
 ```text
-LOADING CAPABILITIES MATRIX...
-[WARNING: NON-VITAL BADGE METRICS REDACTED FOR STREAM SPEED]
+> retrieve vital_stats --format=executive
 
-MODULE                    PROFICIENCY        AUTHORIZATION
-─────────────────────────────────────────────────────────────────
-Java SE / JVM            ▓▓▓▓▓▓▓▓▓░         AUTHORIZED
-Spring Boot              ▓▓▓▓▓▓▓▓░░         AUTHORIZED
-MySQL / SQL              ▓▓▓▓▓▓▓░░░         AUTHORIZED
-REST API Design          ▓▓▓▓▓▓▓░░░         AUTHORIZED
-C++ / STL                ▓▓▓▓▓▓░░░░         RESTRICTED
-Firebase                 ▓▓▓▓▓░░░░░         RESTRICTED
-System Design / LLD      ▓▓▓░░░░░░░         CLEARANCE PENDING  ◌
-─────────────────────────────────────────────────────────────────
-PRIMARY ARSENAL        :  Git · GitHub · Postman · Render
+PRIMARY STACK    : Java SE / JVM · Spring Boot · MySQL / SQL · REST APIs
+CLEARED TOOLS    : Git · GitHub · Postman · Render
+VERIFIED CAP     : High reliability backend services, distributed systems logic.
+
+DECLASSIFIED OUTCOMES:
+  [✔] OPERATION: VITTLES (Collaborative Clean Architecture Platform)
 ```
 
-<div align="center">
-<br/>
-
-![Java](https://img.shields.io/badge/Java-AUTHORIZED-%23007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-AUTHORIZED-%236DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-AUTHORIZED-%234479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-AUTHORIZED-111111?style=flat-square&logo=insomnia&logoColor=white)
-
-</div>
+> [`→ ACCESS DEPLOYED ASSET REPOSITORY`](https://github.com/ishita3075/Vittles_app)
 
 <br/>
 
@@ -98,150 +84,38 @@ PRIMARY ARSENAL        :  Git · GitHub · Postman · Render
 
 <br/>
 
-<div align="center">
-<code>[ END OF INDEX ] · SYSTEM IDLE...</code>
-</div>
-
-<br/>
-
 <details>
-<summary><b>&nbsp; &gt; load active_operations --history=true</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
+<summary><b>&nbsp; [2] &nbsp;DEVELOPER_VIEW &nbsp;·&nbsp; LORE, ANOMALIES &amp; TELEMETRY</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · DEEP STACK</kbd></summary>
 
 <br/>
 
 ```text
-DESIGNATION                STATUS          DIRECTIVE
-─────────────────────────────────────────────────────────────────
-OP: BACKEND_MASTERY        ●  ONGOING      Spring Boot · APIs · Microservices
-OP: ALGO_GRIND             ●  ONGOING      DSA · Competitive Problem Solving
-OP: ARCHITECT              ◌  IN PROGRESS  LLD · System Design patterns
-OP: OPEN_SOURCE            ◌  PENDING      External contribution targets
-─────────────────────────────────────────────────────────────────
+> load core_doctrine --history=true
+
 MISSION TIMELINE
   2023 : Entered programming sector. Initialized core logic.
   2024 : Began backend specialization. Integrated DB & API systems.
   2025 : Focused on production-grade resilience and distributed scale.
   CURR : Undergoing architectural evolution.
+
+BEHAVIORAL FINGERPRINTS & KNOWN INCIDENTS
+  - Subject demonstrates obsessive resilience. Refuses sleep pre-bug-resolution.
+  - Fought CSS & Spring Security for 6 consecutive hours without hydration.
+  - Known to refactor working production code at 03:00 AM "for absolute cleanliness."
+  - Accidentally optimized prematurely during initial microservice rollouts.
+
+REAL-TIME SYSTEM TELEMETRY
+  COMMITS RECORDED       ██████████  STABLE
+  DEBUG SUCCESS RATE     94.2% (OPTIMIZED)
+  CAFFEINE SATURATION    CRITICAL · WARNING
+  SYSTEM STABILITY       DEGRADED · HIGH INTENTIONALITY
 ```
-
-<br/>
-
-</details>
-
-<br/>
-
-<div align="center">
-<code>[ END OF OPERATIONS ] · CHECKING ANOMALIES...</code>
-</div>
-
-<br/>
-
-<details>
-<summary><b>&nbsp; &gt; retrieve analyst_notes --logs=incidents</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
-
-<br/>
-
-```text
-BEHAVIORAL ANOMALIES & FINGERPRINTS
-─────────────────────────────────────────────────────────────────
-ANALYST NOTE           : Subject demonstrates obsessive tendencies. Refuses to 
-                         disconnect before fully resolving NullPointerExceptions.
-
-KNOWN INCIDENTS        :
-  - Accidentally optimized prematurely during initial microservice rollout.
-  - Fought CSS/Spring Security for 6 consecutive hours without hydration.
-  - Refactored perfectly functioning code at 03:00 AM "for absolute cleanliness."
-  - Left undocumented recursive loop running in background sandbox.
-
-SYSTEM VERDICT         : Highly reliable output under controlled environments.
-```
-
-<br/>
-
-</details>
-
-<br/>
-
-<div align="center">
-<code>[ INTERFACE LINKED ] · AWAITING FIELD REPORT...</code>
-</div>
-
-<br/>
-
-<details>
-<summary><b>&nbsp; &gt; query field_operations --show-declassified</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
-
-<br/>
-
-### `[ OP-01 ]` &nbsp; OPERATION: VITTLES &nbsp;&nbsp; `DECLASSIFIED` &nbsp;&nbsp; `2024`
-
-```text
-FORMER CLASSIFICATION  :  RESTRICTED
-OPERATION TYPE         :  Collaborative Field Deployment
-TECH ASSETS DEPLOYED   :  JavaScript · Node.js · REST API
-PRIMARY OBJECTIVE      :  Food discovery & community management platform
-SECONDARY OBJECTIVE    :  Team-based clean architecture under pressure
-OPERATION OUTCOME      :  MISSION COMPLETE
-COLLABORATORS          :  [████████████] — joint operation
-REPOSITORY ACCESS      :  GRANTED
-```
-
-> [`→ ACCESS REPOSITORY`](https://github.com/ishita3075/Vittles_app)
-
-<br/>
-
-```text
-     TRANSMISSION INTERRUPTED... RECONNECTING...
-     ADDITIONAL SECTORS REMAIN CLASSIFIED OR ACTIVELY ENCRYPTED.
-```
-
-<br/>
-
-</details>
-
-<br/>
-
-<div align="center">
-<code>[ TELEMETRY FEED ACTIVE ] · POLLING REAL-TIME METRICS...</code>
-</div>
-
-<br/>
-
-<details>
-<summary><b>&nbsp; &gt; fetch telemetry --include-widgets</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
-
-<br/>
-
-```text
-SUBJECT TELEMETRY METRICS
-─────────────────────────────────────────────────────────────────
-COMMITS RECORDED       ██████████  STABLE
-PRIMARY STACK          JAVA / SPRING BOOT
-DEBUG SUCCESS          94% (VERIFIED)
-CAFFEINE UPTIME        CRITICAL · WARNING STATUS
-SYSTEM STABILITY       DEGRADED · HIGH INTENTIONALITY
-LAST INCIDENT          UNCAUGHT_CURIOSITY_EXCEPTION
-```
-
-<br/>
 
 <div align="center">
 
-*EXTERNAL TELEMETRY FEEDS — RETAINED PER DIRECTIVE*
-
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=ezManish&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D0D0D&title_color=CC0000&icon_color=CC0000&text_color=c9d1d9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ezManish&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&bg_color=0D0D0D&title_color=CC0000&text_color=c9d1d9" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ezManish&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=CC0000&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="55%"/>
-
-<br/><br/>
-
-*CONTRIBUTION ACTIVITY MATRIX*
+*ACTIVE CONTRIBUTION MATRIX MAP FEED*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezManish/ezManish/output/github-contribution-grid-snake-dark.svg">
@@ -257,28 +131,32 @@ LAST INCIDENT          UNCAUGHT_CURIOSITY_EXCEPTION
 
 <br/>
 
-<div align="center">
-<code>[ METRICS RETRIEVED ] · DETECTING ENCRYPTED PARTITION...</code>
-</div>
-
-<br/>
-
 <details>
-<summary><b>&nbsp; &gt; decrypt sealed_archive --override-seal</b> &nbsp;&nbsp;&nbsp; <kbd>RESTRICTED ACCESS · HIDDEN REWARD</kbd></summary>
+<summary><b>&nbsp; [3] &nbsp;DEEP_ARCHIVE &nbsp;·&nbsp; FORBIDDEN SECTOR</b> &nbsp;&nbsp;&nbsp; <kbd>STRICT PROTOCOL · UNFORGETTABLE SPIKE</kbd></summary>
 
 <br/>
 
 ```text
-[ ! ] SEAL BROKEN. LOGGING ACCESS ATTEMPT.
+> access forbidden_sector
+ACCESS DENIED
+> access forbidden_sector --force-override
+ACCESS DENIED
+> bypass handshake --inject-credentials=ezManish
+ACCESS GRANTED
 
-"You were curious enough to pry this section open."
+██████████████████████████████████████████████████████████████████████████████
+  [ CRITICAL INCIDENT REPORT ] · SYSTEM BREACH DETECTED
+██████████████████████████████████████████████████████████████████████████████
 
-CURRENT OBSESSION   : Building highly resilient backend systems that survive 
-                      unforgiving load at scale.
+"You bypassed the standard stream logic to read this raw block."
+
+CURRENT OBSESSION   : Building highly resilient backend architecture that survives 
+                      unforgiving real-world load at scale.
 CURRENT WEAKNESS    : Attempting to perfect every layer of abstraction before launch.
 UNSPOKEN TRUTH      : The best architectures are the ones you don't have to fight.
+LAST RECORDED EVENT : Uncaught Curiosity Exception handled successfully.
 
-[ END OF DECRYPTED ARCHIVE ]
+[ END OF RAW ARCHIVE STREAM ]
 ```
 
 <br/>
@@ -288,7 +166,7 @@ UNSPOKEN TRUTH      : The best architectures are the ones you don't have to figh
 <br/>
 
 <div align="center">
-<code>[ ARCHIVE CLOSED ] · OPENING EXTERNAL HANDSHAKE CHANNELS...</code>
+<code>[ VIEWS COMPILED ] · EXTERNAL FEEDS LINKED BELOW</code>
 </div>
 
 <br/>
