@@ -65,7 +65,7 @@ KNOWN_DOCTRINE : "Simplicity is the soul of efficiency."
 <br/>
 
 <details>
-<summary><b>&nbsp; [1] &nbsp;RECRUITER_VIEW &nbsp;·&nbsp; EXEC SUMMARY &amp; OUTCOMES</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE · FAST FETCH</kbd></summary>
+<summary><b>&nbsp; 🟢 [1] &nbsp;RECRUITER_VIEW &nbsp;·&nbsp; EXEC SUMMARY &amp; OUTCOMES</b> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/%E2%96%B6_CLICK_TO_EXPAND-00CC66?style=flat-square" align="center"/> &nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE</kbd></summary>
 
 <br/>
 
@@ -78,13 +78,13 @@ VERIFIED_CAP  : "High reliability backend services, distributed systems logic."
 
 DECLASSIFIED_OUTCOMES:
   AEGIS:
-    status     : "🔴 COVERT RECONNAISSANCE"
+    status     : "COVERT RECONNAISSANCE"
     type       : "AI-Powered Women's Safety System"
     camouflage : "Disguised as a fully functional calculator"
     access     : "GRANTED"
   
   CURATIX_VAULT:
-    status     : "🟢 PRODUCTION READY"
+    status     : "PRODUCTION READY"
     type       : "Enterprise-Grade Lightweight Full-Stack App"
     target     : "Designed specifically for hackathon teams and project builders"
     access     : "GRANTED"
@@ -101,7 +101,7 @@ DECLASSIFIED_OUTCOMES:
 <br/>
 
 <details>
-<summary><b>&nbsp; [2] &nbsp;DEVELOPER_VIEW &nbsp;·&nbsp; LORE, ANOMALIES &amp; TELEMETRY</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · DEEP STACK</kbd></summary>
+<summary><b>&nbsp; 🟡 [2] &nbsp;DEVELOPER_VIEW &nbsp;·&nbsp; LORE, ANOMALIES &amp; TELEMETRY</b> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/%E2%96%B6_CLICK_TO_EXPAND-FE7A16?style=flat-square" align="center"/> &nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE</kbd></summary>
 
 <br/>
 
@@ -149,7 +149,7 @@ REAL_TIME_TELEMETRY:
 <br/>
 
 <details>
-<summary><b>&nbsp; [3] &nbsp;DEEP_ARCHIVE &nbsp;·&nbsp; FORBIDDEN SECTOR</b> &nbsp;&nbsp;&nbsp; <kbd>STRICT PROTOCOL · UNFORGETTABLE SPIKE</kbd></summary>
+<summary><b>&nbsp; 🔴 [3] &nbsp;DEEP_ARCHIVE &nbsp;·&nbsp; FORBIDDEN SECTOR</b> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/%E2%96%B6_CLICK_TO_EXPAND-CC0000?style=flat-square" align="center"/> &nbsp;&nbsp; <kbd>STRICT PROTOCOL</kbd></summary>
 
 <br/>
 
@@ -186,7 +186,7 @@ LAST_RECORDED_EVENT : "Uncaught Curiosity Exception handled successfully."
 <br/>
 
 <details>
-<summary><b>&nbsp; &gt; establish contact_protocol --channels=all</b> &nbsp;&nbsp;&nbsp; <kbd>UNRESTRICTED · OPEN ACCESS</kbd></summary>
+<summary><b>&nbsp; 🌐 &gt; establish contact_protocol --channels=all</b> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/%E2%96%B6_CLICK_TO_EXPAND-0077B5?style=flat-square" align="center"/> &nbsp;&nbsp; <kbd>UNRESTRICTED ACCESS</kbd></summary>
 
 <br/>
 
