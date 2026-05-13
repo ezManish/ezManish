@@ -8,11 +8,11 @@
 
 <br/>
 
-```
+```text
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  TOP SECRET // EYES ONLY // NOT FOR FOREIGN NATIONALS
-  THIS DOCUMENT CONTAINS SENSITIVE PERSONNEL INFORMATION
-  DOC NO. EZM-████   ·   DATE OF ISSUE: ████-██-██   ·   PAGE 01 / 01
+  RECOVERED INTELLIGENCE DOSSIER // PARTIALLY DEGRADED STREAM
+  [ERROR 0x8A7] REDACTED DATA BLOCK DETECTED IN SECTOR 4
+  DOC NO. EZM-████   ·   DATE OF RETRIEVAL: ACTIVE   ·   PAGE 01 / 01
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
@@ -22,16 +22,19 @@
 <tr>
 <td width="72%" valign="top">
 
-```
+```text
+> load subject.log --verbose
+
 SUBJECT          :  MANISH KUMAR
 CODENAME         :  ezManish
-STATUS           :  █  ACTIVE
+STATUS           :  █  ACTIVE · RECOVERY STATE
 ORIGIN           :  ████████████████, India
 CLEARANCE        :  LEVEL 05  ██████████████
 SPECIALTY        :  Backend Systems Engineering
 CURRENT OBJ.     :  Mastering distributed backend architecture
 THREAT LEVEL     :  Dangerously consistent
 KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
+████████████     :  CORRUPTED ENTRY REMOVED
 ```
 
 </td>
@@ -51,22 +54,21 @@ KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
 
 <br/>
 
----
-
->**ACCESS NOTICE:** The following sections are classification-gated.
-> Expand each section to verify clearance and retrieve contents.
-> **All access to this file is logged and traceable.**
-
----
+<div align="center">
+<code>[ TRANSMISSION STREAM STABLE ] · AWAITING TERMINAL INTERACTION...</code>
+</div>
 
 <br/>
 
 <details>
-<summary><b>&nbsp; SECTION 01 &nbsp;·&nbsp; CAPABILITIES INDEX</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO VERIFY</kbd></summary>
+<summary><b>&nbsp; &gt; retrieve capabilities_index --filter=cleared</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
 
 <br/>
 
-```
+```text
+LOADING CAPABILITIES MATRIX...
+[WARNING: NON-VITAL BADGE METRICS REDACTED FOR STREAM SPEED]
+
 MODULE                    PROFICIENCY        AUTHORIZATION
 ─────────────────────────────────────────────────────────────────
 Java SE / JVM            ▓▓▓▓▓▓▓▓▓░         AUTHORIZED
@@ -77,7 +79,7 @@ C++ / STL                ▓▓▓▓▓▓░░░░         RESTRICTED
 Firebase                 ▓▓▓▓▓░░░░░         RESTRICTED
 System Design / LLD      ▓▓▓░░░░░░░         CLEARANCE PENDING  ◌
 ─────────────────────────────────────────────────────────────────
-TOOLS CLEARED FOR USE :  Git · GitHub · Postman · Render
+PRIMARY ARSENAL        :  Git · GitHub · Postman · Render
 ```
 
 <div align="center">
@@ -87,11 +89,6 @@ TOOLS CLEARED FOR USE :  Git · GitHub · Postman · Render
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-AUTHORIZED-%236DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-AUTHORIZED-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-AUTHORIZED-111111?style=flat-square&logo=insomnia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-RESTRICTED-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-RESTRICTED-%23F57C00?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-CLEARED-%23F05033?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-CLEARED-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-CLEARED-%2346E3B7?style=flat-square&logo=render&logoColor=black)
 
 </div>
 
@@ -99,14 +96,20 @@ TOOLS CLEARED FOR USE :  Git · GitHub · Postman · Render
 
 </details>
 
----
+<br/>
 
-<details>
-<summary><b>&nbsp; SECTION 02 &nbsp;·&nbsp; ACTIVE OPERATIONS</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO VERIFY</kbd></summary>
+<div align="center">
+<code>[ END OF INDEX ] · SYSTEM IDLE...</code>
+</div>
 
 <br/>
 
-```
+<details>
+<summary><b>&nbsp; &gt; load active_operations --history=true</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 3 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
+
+<br/>
+
+```text
 DESIGNATION                STATUS          DIRECTIVE
 ─────────────────────────────────────────────────────────────────
 OP: BACKEND_MASTERY        ●  ONGOING      Spring Boot · APIs · Microservices
@@ -114,24 +117,65 @@ OP: ALGO_GRIND             ●  ONGOING      DSA · Competitive Problem Solving
 OP: ARCHITECT              ◌  IN PROGRESS  LLD · System Design patterns
 OP: OPEN_SOURCE            ◌  PENDING      External contribution targets
 ─────────────────────────────────────────────────────────────────
-SUBJECT'S FILED DOCTRINE:  "Simplicity is the soul of efficiency."
-ANALYST NOTE:               Abnormally high rate of consistent output.
+MISSION TIMELINE
+  2023 : Entered programming sector. Initialized core logic.
+  2024 : Began backend specialization. Integrated DB & API systems.
+  2025 : Focused on production-grade resilience and distributed scale.
+  CURR : Undergoing architectural evolution.
 ```
 
 <br/>
 
 </details>
 
----
+<br/>
+
+<div align="center">
+<code>[ END OF OPERATIONS ] · CHECKING ANOMALIES...</code>
+</div>
+
+<br/>
 
 <details>
-<summary><b>&nbsp; SECTION 03 &nbsp;·&nbsp; DECLASSIFIED FIELD OPERATIONS</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · CLICK TO VERIFY</kbd></summary>
+<summary><b>&nbsp; &gt; retrieve analyst_notes --logs=incidents</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
+
+<br/>
+
+```text
+BEHAVIORAL ANOMALIES & FINGERPRINTS
+─────────────────────────────────────────────────────────────────
+ANALYST NOTE           : Subject demonstrates obsessive tendencies. Refuses to 
+                         disconnect before fully resolving NullPointerExceptions.
+
+KNOWN INCIDENTS        :
+  - Accidentally optimized prematurely during initial microservice rollout.
+  - Fought CSS/Spring Security for 6 consecutive hours without hydration.
+  - Refactored perfectly functioning code at 03:00 AM "for absolute cleanliness."
+  - Left undocumented recursive loop running in background sandbox.
+
+SYSTEM VERDICT         : Highly reliable output under controlled environments.
+```
+
+<br/>
+
+</details>
+
+<br/>
+
+<div align="center">
+<code>[ INTERFACE LINKED ] · AWAITING FIELD REPORT...</code>
+</div>
+
+<br/>
+
+<details>
+<summary><b>&nbsp; &gt; query field_operations --show-declassified</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 4 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
 
 <br/>
 
 ### `[ OP-01 ]` &nbsp; OPERATION: VITTLES &nbsp;&nbsp; `DECLASSIFIED` &nbsp;&nbsp; `2024`
 
-```
+```text
 FORMER CLASSIFICATION  :  RESTRICTED
 OPERATION TYPE         :  Collaborative Field Deployment
 TECH ASSETS DEPLOYED   :  JavaScript · Node.js · REST API
@@ -146,25 +190,44 @@ REPOSITORY ACCESS      :  GRANTED
 
 <br/>
 
-```
-     ADDITIONAL OPERATIONS MAY BE CLASSIFIED OR CURRENTLY IN PROGRESS.
-     FUTURE DECLASSIFICATIONS WILL APPEAR IN THIS SECTION.
+```text
+     TRANSMISSION INTERRUPTED... RECONNECTING...
+     ADDITIONAL SECTORS REMAIN CLASSIFIED OR ACTIVELY ENCRYPTED.
 ```
 
 <br/>
 
 </details>
 
----
+<br/>
+
+<div align="center">
+<code>[ TELEMETRY FEED ACTIVE ] · POLLING REAL-TIME METRICS...</code>
+</div>
+
+<br/>
 
 <details>
-<summary><b>&nbsp; SECTION 04 &nbsp;·&nbsp; FIELD PERFORMANCE METRICS</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE · CLICK TO VERIFY</kbd></summary>
+<summary><b>&nbsp; &gt; fetch telemetry --include-widgets</b> &nbsp;&nbsp;&nbsp; <kbd>LEVEL 2 CLEARANCE · CLICK TO DECRYPT</kbd></summary>
+
+<br/>
+
+```text
+SUBJECT TELEMETRY METRICS
+─────────────────────────────────────────────────────────────────
+COMMITS RECORDED       ██████████  STABLE
+PRIMARY STACK          JAVA / SPRING BOOT
+DEBUG SUCCESS          94% (VERIFIED)
+CAFFEINE UPTIME        CRITICAL · WARNING STATUS
+SYSTEM STABILITY       DEGRADED · HIGH INTENTIONALITY
+LAST INCIDENT          UNCAUGHT_CURIOSITY_EXCEPTION
+```
 
 <br/>
 
 <div align="center">
 
-*PERFORMANCE DATA — AUTHORIZED VIEWING ONLY*
+*EXTERNAL TELEMETRY FEEDS — RETAINED PER DIRECTIVE*
 
 <br/>
 
@@ -192,14 +255,50 @@ REPOSITORY ACCESS      :  GRANTED
 
 </details>
 
----
+<br/>
 
-<details>
-<summary><b>&nbsp; SECTION 05 &nbsp;·&nbsp; CONTACT PROTOCOL</b> &nbsp;&nbsp;&nbsp; <kbd>UNRESTRICTED · OPEN ACCESS</kbd></summary>
+<div align="center">
+<code>[ METRICS RETRIEVED ] · DETECTING ENCRYPTED PARTITION...</code>
+</div>
 
 <br/>
 
+<details>
+<summary><b>&nbsp; &gt; decrypt sealed_archive --override-seal</b> &nbsp;&nbsp;&nbsp; <kbd>RESTRICTED ACCESS · HIDDEN REWARD</kbd></summary>
+
+<br/>
+
+```text
+[ ! ] SEAL BROKEN. LOGGING ACCESS ATTEMPT.
+
+"You were curious enough to pry this section open."
+
+CURRENT OBSESSION   : Building highly resilient backend systems that survive 
+                      unforgiving load at scale.
+CURRENT WEAKNESS    : Attempting to perfect every layer of abstraction before launch.
+UNSPOKEN TRUTH      : The best architectures are the ones you don't have to fight.
+
+[ END OF DECRYPTED ARCHIVE ]
 ```
+
+<br/>
+
+</details>
+
+<br/>
+
+<div align="center">
+<code>[ ARCHIVE CLOSED ] · OPENING EXTERNAL HANDSHAKE CHANNELS...</code>
+</div>
+
+<br/>
+
+<details>
+<summary><b>&nbsp; &gt; establish contact_protocol --channels=all</b> &nbsp;&nbsp;&nbsp; <kbd>UNRESTRICTED · OPEN ACCESS</kbd></summary>
+
+<br/>
+
+```text
 CHANNEL        IDENTIFIER                         ENCRYPTION    STATUS
 ──────────────────────────────────────────────────────────────────────
 LinkedIn       /in/manish-kumar-16a2b932a         STANDARD      MONITORED
@@ -228,12 +327,10 @@ Stack Overflow /users/32613580                   PUBLIC        OPEN
 
 <br/>
 
----
-
-```
+```text
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   CLASSIFICATION: TOP SECRET   ·   DO NOT REPRODUCE   ·   MONITORED
-  FILE NO. EZM-████   ·   COMPILED BY: ezManish   ·   END OF DOCUMENT
+  FILE NO. EZM-████   ·   COMPILED BY: ezManish   ·   TERMINAL SESSION CLOSED
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
