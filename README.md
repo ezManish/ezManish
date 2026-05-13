@@ -40,9 +40,9 @@ KNOWN_DOCTRINE : "Simplicity is the soul of efficiency."
 ```
 
 </td>
-<td width="28%" valign="top" align="center">
+<td width="28%" valign="middle" align="center">
 
-<img src="https://github.com/ezManish.png" width="115"/>
+<img src="assets/me.png" width="115" align="center"/>
 
 <br/>
 
