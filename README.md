@@ -42,7 +42,7 @@ KNOWN_DOCTRINE : "Simplicity is the soul of efficiency."
 </td>
 <td width="28%" valign="middle" align="center">
 
-<img src="assets/me.png" width="115" align="center"/>
+<kbd><img src="assets/me.png" width="115" align="center"/></kbd>
 
 <br/>
 
@@ -78,13 +78,13 @@ VERIFIED_CAP  : "High reliability backend services, distributed systems logic."
 
 DECLASSIFIED_OUTCOMES:
   AEGIS:
-    status     : 🔴 "COVERT RECONNAISSANCE"
+    status     : "COVERT RECONNAISSANCE"
     type       : "AI-Powered Women's Safety System"
     camouflage : "Disguised as a fully functional calculator"
     access     : "GRANTED"
   
   CURATIX_VAULT:
-    status     : 🟢 "PRODUCTION READY"
+    status     : "PRODUCTION READY"
     type       : "Enterprise-Grade Lightweight Full-Stack App"
     target     : "Designed specifically for hackathon teams and project builders"
     access     : "GRANTED"
