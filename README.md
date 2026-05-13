@@ -24,19 +24,19 @@
 <tr>
 <td width="72%" valign="top" align="left">
 
-```text
+```yaml
 > load subject.log --verbose
 
-SUBJECT          :  MANISH KUMAR
-CODENAME         :  ezManish
-STATUS           :  █  ACTIVE · RECOVERY STATE
-ORIGIN           :  ████████████████, India
-CLEARANCE        :  LEVEL 05  ██████████████
-SPECIALTY        :  Backend Systems Engineering
-CURRENT OBJ.     :  Mastering distributed backend architecture
-THREAT LEVEL     :  Dangerously consistent
-KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
-████████████     :  ███ corrupted payload ███
+SUBJECT        : "MANISH KUMAR"
+CODENAME       : "ezManish"
+STATUS         : "█ ACTIVE · RECOVERY STATE"
+ORIGIN         : "████████████████, India"
+CLEARANCE      : "LEVEL 05 ██████████████"
+SPECIALTY      : "Backend Systems Engineering"
+CURRENT_OBJ    : "Mastering distributed backend architecture"
+THREAT_LEVEL   : "Dangerously consistent"
+KNOWN_DOCTRINE : "Simplicity is the soul of efficiency."
+████████████   : "███ corrupted payload ███"
 ```
 
 </td>
@@ -69,18 +69,30 @@ KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
 
 <br/>
 
-```text
+```yaml
 > retrieve vital_stats --format=executive
 
-PRIMARY STACK    : Java SE / JVM · Spring Boot · MySQL / SQL · REST APIs
-CLEARED TOOLS    : Git · GitHub · Postman · Render
-VERIFIED CAP     : High reliability backend services, distributed systems logic.
+PRIMARY_STACK : "Java SE / JVM · Spring Boot · MySQL / SQL · REST APIs"
+CLEARED_TOOLS : "Git · GitHub · Postman · Render"
+VERIFIED_CAP  : "High reliability backend services, distributed systems logic."
 
-DECLASSIFIED OUTCOMES:
-  OPERATION: VITTLES (Collaborative Clean Architecture Platform)
+DECLASSIFIED_OUTCOMES:
+  AEGIS:
+    status     : "🔴 COVERT RECONNAISSANCE"
+    type       : "AI-Powered Women's Safety System"
+    camouflage : "Disguised as a fully functional calculator"
+    access     : "GRANTED"
+  
+  CURATIX_VAULT:
+    status     : "🟢 PRODUCTION READY"
+    type       : "Enterprise-Grade Lightweight Full-Stack App"
+    target     : "Designed specifically for hackathon teams and project builders"
+    access     : "GRANTED"
 ```
 
-> [`→ ACCESS DEPLOYED ASSET REPOSITORY`](https://github.com/ishita3075/Vittles_app)
+> 🔗 [`→ ACCESS AEGIS REPOSITORY`](https://github.com/ezManish/Aegis.git)
+> <br/>
+> 🔗 [`→ ACCESS CURATIX VAULT REPOSITORY`](https://github.com/ezManish/CuratiX_Vault.git)
 
 <br/>
 
@@ -93,26 +105,27 @@ DECLASSIFIED OUTCOMES:
 
 <br/>
 
-```text
+```yaml
 > load core_doctrine --history=true
 
-MISSION TIMELINE
-  2023 : Entered programming sector. Initialized core logic.
-  2024 : Began backend specialization. Integrated DB & API systems.
-  2025 : Focused on production-grade resilience and distributed scale.
-  CURR : Undergoing architectural evolution.
+MISSION_TIMELINE:
+  2023 : "Entered programming sector. Initialized core logic."
+  2024 : "Began backend specialization. Integrated DB & API systems."
+  2025 : "Focused on production-grade resilience and distributed scale."
+  CURR : "Undergoing architectural evolution."
 
-BEHAVIORAL FINGERPRINTS & KNOWN INCIDENTS
-  - Subject demonstrates obsessive resilience. Refuses sleep pre-bug-resolution.
-  - Fought CSS & Spring Security for 6 consecutive hours without hydration.
-  - Known to refactor working production code at 03:00 AM "for absolute cleanliness."
-  - Accidentally optimized prematurely during initial microservice rollouts.
+BEHAVIORAL_FINGERPRINTS:
+  obsessive_resilience: true
+  known_incidents:
+    - "Fought CSS & Spring Security for 6 consecutive hours without hydration."
+    - "Refactored working production code at 03:00 AM for absolute cleanliness."
+    - "Accidentally optimized prematurely during initial microservice rollouts."
 
-REAL-TIME SYSTEM TELEMETRY
-  COMMITS RECORDED       ██████████  STABLE
-  DEBUG SUCCESS RATE     94.2% (OPTIMIZED)
-  CAFFEINE SATURATION    CRITICAL · WARNING
-  SYSTEM STABILITY       DEGRADED · HIGH INTENTIONALITY
+REAL_TIME_TELEMETRY:
+  commits_recorded    : "██████████ STABLE"
+  debug_success_rate  : "94.2% (OPTIMIZED)"
+  caffeine_saturation : "CRITICAL · WARNING"
+  system_stability    : "DEGRADED · HIGH INTENTIONALITY"
 ```
 
 <div align="center">
@@ -140,27 +153,24 @@ REAL-TIME SYSTEM TELEMETRY
 
 <br/>
 
-```text
+```yaml
 > access forbidden_sector
-ACCESS DENIED
+ACCESS: DENIED
 > access forbidden_sector --force-override
-ACCESS DENIED
+ACCESS: DENIED
 > bypass handshake --inject-credentials=ezManish
-ACCESS GRANTED
+ACCESS: GRANTED
 
 ██████████████████████████████████████████████████████████████████████████████
   [ CRITICAL INCIDENT REPORT ] · SYSTEM BREACH DETECTED
 ██████████████████████████████████████████████████████████████████████████████
 
-"You bypassed the standard stream logic to read this raw block."
+MESSAGE: "You bypassed the standard stream logic to read this raw block."
 
-CURRENT OBSESSION   : Building highly resilient backend architecture that survives 
-                      unforgiving real-world load at scale.
-CURRENT WEAKNESS    : Attempting to perfect every layer of abstraction before launch.
-UNSPOKEN TRUTH      : The best architectures are the ones you don't have to fight.
-LAST RECORDED EVENT : Uncaught Curiosity Exception handled successfully.
-
-[ END OF RAW ARCHIVE STREAM ]
+CURRENT_OBSESSION   : "Building highly resilient backend architecture that survives unforgiving load at scale."
+CURRENT_WEAKNESS    : "Attempting to perfect every layer of abstraction before launch."
+UNSPOKEN_TRUTH      : "The best architectures are the ones you don't have to fight."
+LAST_RECORDED_EVENT : "Uncaught Curiosity Exception handled successfully."
 ```
 
 <br/>
@@ -180,13 +190,13 @@ LAST RECORDED EVENT : Uncaught Curiosity Exception handled successfully.
 
 <br/>
 
-```text
-CHANNEL        IDENTIFIER                         ENCRYPTION    STATUS
-──────────────────────────────────────────────────────────────────────
-LinkedIn       /in/manish-kumar-16a2b932a         STANDARD      MONITORED
-Gmail          manishkumarmgs019@gmail.com        TLS           ACTIVE
-GitHub         github.com/ezManish               PUBLIC        OPEN
-Stack Overflow /users/32613580                   PUBLIC        OPEN
+```yaml
+CHANNEL        : IDENTIFIER                         | ENCRYPTION | STATUS
+────────────────────────────────────────────────────────────────────────────
+LinkedIn       : "/in/manish-kumar-16a2b932a"       | STANDARD   | MONITORED
+Gmail          : "manishkumarmgs019@gmail.com"      | TLS        | ACTIVE
+GitHub         : "github.com/ezManish"              | PUBLIC     | OPEN
+Stack_Overflow : "/users/32613580"                  | PUBLIC     | OPEN
 ```
 
 <div align="center">
