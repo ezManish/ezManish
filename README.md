@@ -18,9 +18,11 @@
 
 <br/>
 
+<div align="center">
+
 <table border="0" width="100%" cellpadding="12">
 <tr>
-<td width="72%" valign="top">
+<td width="72%" valign="top" align="left">
 
 ```text
 > load subject.log --verbose
@@ -52,6 +54,8 @@ KNOWN DOCTRINE   :  "Simplicity is the soul of efficiency."
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
@@ -73,7 +77,7 @@ CLEARED TOOLS    : Git · GitHub · Postman · Render
 VERIFIED CAP     : High reliability backend services, distributed systems logic.
 
 DECLASSIFIED OUTCOMES:
-  [✔] OPERATION: VITTLES (Collaborative Clean Architecture Platform)
+  OPERATION: VITTLES (Collaborative Clean Architecture Platform)
 ```
 
 > [`→ ACCESS DEPLOYED ASSET REPOSITORY`](https://github.com/ishita3075/Vittles_app)
