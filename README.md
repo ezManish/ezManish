@@ -42,7 +42,7 @@ KNOWN_DOCTRINE : "Simplicity is the soul of efficiency."
 </td>
 <td width="28%" valign="middle" align="center">
 
-<kbd><img src="assets/me.png" width="115" align="center"/></kbd>
+<kbd><img src="assets/me_ascii.png" width="115" align="center"/></kbd>
 
 <br/>
 
