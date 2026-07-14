@@ -1,5 +1,5 @@
 <div align="center">
-  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c;">
+  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c; box-sizing: border-box;">
     <!-- Header Bar -->
     <tr bgcolor="#1e1e1e">
       <td colspan="4" style="color: #ffffff; padding: 12px; font-weight: bold; border-bottom: 2px solid #ff6c37; font-size: 14px;">
@@ -27,11 +27,13 @@
         &nbsp;&nbsp;<a href="../README.md" style="color: #888888; text-decoration: none;">1: GET /profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="projects.md" style="color: #ff6c37; font-weight: bold; border-bottom: 2px solid #ff6c37; padding-bottom: 4px; text-decoration: none;">2: GET /projects</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="skills.md" style="color: #888888; text-decoration: none;">3: GET /skills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="play-game.md" style="color: #888888; text-decoration: none;">4: GET /play-game</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.md" style="color: #888888; text-decoration: none;">5: POST /contact</a>
       </td>
     </tr>
-    <!-- Content Body -->
-    <tr bgcolor="#1e1e1e">
-      <td colspan="4" valign="top" style="padding: 24px; color: #d4d4d4; text-align: left;">
+  </table>
+</div>
 
-<p style="color: #888888; margin-top: 0; font-family: monospace;">Response Body (application/json):</p>
+
+<br/>
+
+**Response Body (application/json):**
 
 ```json
 {
@@ -61,8 +63,3 @@ An AI-powered women's safety application masked as a standard calculator interfa
 ### CuratiX Vault
 An enterprise-grade, lightweight stack boilerplate designed for hackathon teams to bypass project bootstrap latency.
 > 🔗 **[Explore CuratiX Vault Codebase](https://github.com/ezManish/CuratiX_Vault)**
-
-      </td>
-    </tr>
-  </table>
-</div>

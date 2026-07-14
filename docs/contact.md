@@ -1,5 +1,5 @@
 <div align="center">
-  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c;">
+  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c; box-sizing: border-box;">
     <!-- Header Bar -->
     <tr bgcolor="#1e1e1e">
       <td colspan="4" style="color: #ffffff; padding: 12px; font-weight: bold; border-bottom: 2px solid #ff6c37; font-size: 14px;">
@@ -27,11 +27,13 @@
         &nbsp;&nbsp;<a href="../README.md" style="color: #888888; text-decoration: none;">1: GET /profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="projects.md" style="color: #888888; text-decoration: none;">2: GET /projects</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="skills.md" style="color: #888888; text-decoration: none;">3: GET /skills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="play-game.md" style="color: #888888; text-decoration: none;">4: GET /play-game</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contact.md" style="color: #ff6c37; font-weight: bold; border-bottom: 2px solid #ff6c37; padding-bottom: 4px; text-decoration: none;">5: POST /contact</a>
       </td>
     </tr>
-    <!-- Content Body -->
-    <tr bgcolor="#1e1e1e">
-      <td colspan="4" valign="top" style="padding: 24px; color: #d4d4d4; text-align: left;">
+  </table>
+</div>
 
-<p style="color: #888888; margin-top: 0; font-family: monospace;">Response Body (application/json):</p>
+
+<br/>
+
+**Response Body (application/json):**
 
 ```json
 {
@@ -50,8 +52,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-SEND_MESSAGE-CC0000?style=flat-square&logo=gmail&logoColor=white)](mailto:manishkumarmgs019@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VISIT_PROFILE-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ezManish)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-VIEW_STATS-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32613580)
-
-      </td>
-    </tr>
-  </table>
-</div>

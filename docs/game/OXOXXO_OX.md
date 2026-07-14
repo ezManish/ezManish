@@ -1,5 +1,5 @@
 <div align="center">
-  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c;">
+  <table border="0" cellpadding="8" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace; border: 1px solid #3c3c3c; box-sizing: border-box;">
     <!-- Header Bar -->
     <tr bgcolor="#1e1e1e">
       <td colspan="4" style="color: #ffffff; padding: 12px; font-weight: bold; border-bottom: 2px solid #ff6c37; font-size: 14px;">
@@ -27,39 +27,38 @@
         &nbsp;&nbsp;<a href="../../README.md" style="color: #888888; text-decoration: none;">1: GET /profile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../projects.md" style="color: #888888; text-decoration: none;">2: GET /projects</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../skills.md" style="color: #888888; text-decoration: none;">3: GET /skills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../play-game.md" style="color: #ff6c37; font-weight: bold; border-bottom: 2px solid #ff6c37; padding-bottom: 4px; text-decoration: none;">4: GET /play-game</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../contact.md" style="color: #888888; text-decoration: none;">5: POST /contact</a>
       </td>
     </tr>
-    <!-- Content Body -->
-    <tr bgcolor="#1e1e1e">
-      <td colspan="4" valign="top" style="padding: 24px; color: #d4d4d4; text-align: left;">
-
-<p style="color: #888888; margin-top: 0; font-family: monospace;">Play Panel (application/html):</p>
+  </table>
+</div>
 
 
-<table align="center" border="1" bordercolor="#3c3c3c" cellpadding="20" style="border-collapse: collapse; font-family: monospace; text-align: center;">
-  <tr>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #4CAF50; font-size: 20px;">O</b></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #ff6c37; font-size: 20px;">X</b></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #4CAF50; font-size: 20px;">O</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #ff6c37; font-size: 20px;">X</b></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #ff6c37; font-size: 20px;">X</b></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #4CAF50; font-size: 20px;">O</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="50" height="50"><a href="OXOXXOXOX.md"><code>[ ]</code></a></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #4CAF50; font-size: 20px;">O</b></td>
-    <td align="center" valign="middle" width="50" height="50"><b style="color: #ff6c37; font-size: 20px;">X</b></td>
-  </tr>
-</table>
+<br/>
+
+**Play Panel (application/html):**
+
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="6" style="border-collapse: separate; border-spacing: 6px; font-family: monospace; text-align: center; margin: 20px auto;">
+    <tr>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #4CAF50; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">O</span></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #ff6c37; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">X</span></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #4CAF50; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">O</span></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #ff6c37; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">X</span></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #ff6c37; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">X</span></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #4CAF50; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">O</span></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><a href="OXOXXOXOX.md" style="text-decoration: none; color: #888888; font-size: 18px; display: block; line-height: 60px; font-weight: bold;">[ ]</a></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #4CAF50; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">O</span></td>
+      <td align="center" valign="middle" width="60" height="60" bgcolor="#222222" style="border: 1px solid #3c3c3c; border-radius: 6px;"><span style="color: #ff6c37; font-size: 22px; font-weight: bold; line-height: 60px; display: block;">X</span></td>
+    </tr>
+  </table>
+</div>
 
 
 
 <div align="center">
   <p style="color: #888888;">Make your move by clicking any empty <code>[ ]</code> block.</p>
   <a href="../play-game.md" style="color: #ff6c37;"><b>[ Restart Game ]</b></a>
-</div>
-
-      </td>
-    </tr>
-  </table>
 </div>
