@@ -32,7 +32,7 @@ try {
   let readmeContent = fs.readFileSync(readmePath, 'utf8');
 
   // Regex to find the placeholders
-  const regex = /(<!-- START_SECTION:activity -->\n)([\s\S]*?)(\n\s*<!-- END_SECTION:activity -->)/;
+  const regex = /(<!-- START_SECTION:activity -->\r?\n)([\s\S]*?)(\r?\n\s*<!-- END_SECTION:activity -->)/;
 
   if (regex.test(readmeContent)) {
     readmeContent = readmeContent.replace(regex, `$1${replacementContent}$3`);
