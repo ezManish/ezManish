@@ -33,18 +33,17 @@
 
 <br/>
 
-**Response Body (application/json):**
-
-```json
-{
-  "skills": {
-    "languages": ["Java", "SQL", "JavaScript"],
-    "frameworks": ["Spring Boot", "Spring Security", "Spring Data JPA"],
-    "databases": ["MySQL"],
-    "tools": ["Git", "GitHub", "Postman", "Render"]
+<p style="color: #888888; margin-top: 0; font-size: 12px; font-family: monospace;">Response Body (application/json):</p>
+<pre style="background: #151515; border: 1px solid #3c3c3c; border-radius: 6px; padding: 16px; margin: 0; font-family: monospace; font-size: 13px; color: #d4d4d4; text-align: left; line-height: 1.5; overflow-x: auto;">{
+  <span style="color: #9cdcfe;">"skills"</span>: {
+    <span style="color: #9cdcfe;">"languages"</span>: [<span style="color: #ce9178;">"Java"</span>, <span style="color: #ce9178;">"SQL"</span>, <span style="color: #ce9178;">"JavaScript"</span>],
+    <span style="color: #9cdcfe;">"frameworks"</span>: [<span style="color: #ce9178;">"Spring Boot"</span>, <span style="color: #ce9178;">"Spring Security"</span>, <span style="color: #ce9178;">"Spring Data JPA"</span>],
+    <span style="color: #9cdcfe;">"databases"</span>: [<span style="color: #ce9178;">"MySQL"</span>],
+    <span style="color: #9cdcfe;">"tools"</span>: [<span style="color: #ce9178;">"Git"</span>, <span style="color: #ce9178;">"GitHub"</span>, <span style="color: #ce9178;">"Postman"</span>, <span style="color: #ce9178;">"Render"</span>]
   }
-}
-```
+}</pre>
+
+<br/>
 
 ### Monochromatic Badge Index
 
@@ -57,6 +56,8 @@
   ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+
+<br/>
 
 ### Contribution Telemetry
 <picture>

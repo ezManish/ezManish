@@ -33,28 +33,27 @@
 
 <br/>
 
-**Response Body (application/json):**
-
-```json
-{
-  "projects": [
+<p style="color: #888888; margin-top: 0; font-size: 12px; font-family: monospace;">Response Body (application/json):</p>
+<pre style="background: #151515; border: 1px solid #3c3c3c; border-radius: 6px; padding: 16px; margin: 0; font-family: monospace; font-size: 13px; color: #d4d4d4; text-align: left; line-height: 1.5; overflow-x: auto;">{
+  <span style="color: #9cdcfe;">"projects"</span>: [
     {
-      "name": "Aegis",
-      "type": "AI-Powered Women's Safety System",
-      "camouflage": "Disguised as a fully functional calculator",
-      "status": "Production-Ready / Covert",
-      "repository_url": "https://github.com/ezManish/Aegis"
+      <span style="color: #9cdcfe;">"name"</span>: <span style="color: #ce9178;">"Aegis"</span>,
+      <span style="color: #9cdcfe;">"type"</span>: <span style="color: #ce9178;">"AI-Powered Women's Safety System"</span>,
+      <span style="color: #9cdcfe;">"camouflage"</span>: <span style="color: #ce9178;">"Disguised as a fully functional calculator"</span>,
+      <span style="color: #9cdcfe;">"status"</span>: <span style="color: #ce9178;">"Production-Ready / Covert"</span>,
+      <span style="color: #9cdcfe;">"repository_url"</span>: <span style="color: #ce9178;">"https://github.com/ezManish/Aegis"</span>
     },
     {
-      "name": "CuratiX Vault",
-      "type": "Enterprise-Grade Lightweight Boilerplate",
-      "target": "Designed for hackathon teams and project builders",
-      "status": "Production-Ready / Open Source",
-      "repository_url": "https://github.com/ezManish/CuratiX_Vault"
+      <span style="color: #9cdcfe;">"name"</span>: <span style="color: #ce9178;">"CuratiX Vault"</span>,
+      <span style="color: #9cdcfe;">"type"</span>: <span style="color: #ce9178;">"Enterprise-Grade Lightweight Boilerplate"</span>,
+      <span style="color: #9cdcfe;">"target"</span>: <span style="color: #ce9178;">"Designed for hackathon teams and project builders"</span>,
+      <span style="color: #9cdcfe;">"status"</span>: <span style="color: #ce9178;">"Production-Ready / Open Source"</span>,
+      <span style="color: #9cdcfe;">"repository_url"</span>: <span style="color: #ce9178;">"https://github.com/ezManish/CuratiX_Vault"</span>
     }
   ]
-}
-```
+}</pre>
+
+<br/>
 
 ### Aegis System
 An AI-powered women's safety application masked as a standard calculator interface for camouflage. 

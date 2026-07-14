@@ -33,25 +33,52 @@
 
 <br/>
 
-**Response Body (application/json):**
-
-```json
-{
-  "status": "success",
-  "data": {
-    "developer": "Manish Kumar",
-    "codename": "ezManish",
-    "role": "Backend Systems Engineer",
-    "location": "India",
-    "core_doctrine": "Simplicity is the soul of efficiency.",
-    "current_focus": "Mastering distributed backend architecture",
-    "active_threads": [
-      "Aegis (AI Women's Safety System)",
-      "CuratiX Vault (Enterprise Hackathon Boilerplate)"
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace;">
+  <tr>
+    <td width="65%" valign="top" style="padding-right: 20px;">
+      <p style="color: #888888; margin-top: 0; font-size: 12px; font-family: monospace;">Response Body (application/json):</p>
+      <pre style="background: #151515; border: 1px solid #3c3c3c; border-radius: 6px; padding: 16px; margin: 0; font-family: monospace; font-size: 13px; color: #d4d4d4; text-align: left; line-height: 1.5; overflow-x: auto;">{
+  <span style="color: #9cdcfe;">"status"</span>: <span style="color: #ce9178;">"success"</span>,
+  <span style="color: #9cdcfe;">"data"</span>: {
+    <span style="color: #9cdcfe;">"developer"</span>: <span style="color: #ce9178;">"Manish Kumar"</span>,
+    <span style="color: #9cdcfe;">"codename"</span>: <span style="color: #ce9178;">"ezManish"</span>,
+    <span style="color: #9cdcfe;">"role"</span>: <span style="color: #ce9178;">"Backend Systems Engineer"</span>,
+    <span style="color: #9cdcfe;">"location"</span>: <span style="color: #ce9178;">"India"</span>,
+    <span style="color: #9cdcfe;">"core_doctrine"</span>: <span style="color: #ce9178;">"Simplicity is the soul of efficiency."</span>,
+    <span style="color: #9cdcfe;">"current_focus"</span>: <span style="color: #ce9178;">"Mastering distributed backend architecture"</span>,
+    <span style="color: #9cdcfe;">"active_threads"</span>: [
+      <span style="color: #ce9178;">"Aegis (AI Women's Safety System)"</span>,
+      <span style="color: #ce9178;">"CuratiX Vault (Enterprise Boilerplate)"</span>
+    ],
+    <span style="color: #9cdcfe;">"system_logs"</span>: [
+<!-- START_SECTION:activity -->
+      <span style="color: #ce9178;">"2026-07-14 - fix: resolve README footer tag bugs and Tic-Tac-Toe grid wrapping"</span>,
+      <span style="color: #ce9178;">"2026-07-14 - feat: implement interactive Postman REST client and static Tic-Tac-Toe game"</span>,
+      <span style="color: #ce9178;">"2026-07-14 - Start new styling work"</span>,
+      <span style="color: #ce9178;">"2026-07-11 - chore : updated id card image (me_ascii.png)"</span>,
+      <span style="color: #ce9178;">"2026-07-11 - feat : added me_ascii.png for id card"</span>
+<!-- END_SECTION:activity -->
     ]
   }
-}
-```
+}</pre>
+    </td>
+    <td width="35%" align="center" valign="middle" bgcolor="#1a1a1a" style="border: 1px solid #3c3c3c; border-radius: 8px; padding: 20px; box-sizing: border-box; text-align: center;">
+      <img src="assets/me_ascii.png" width="130" alt="Manish Kumar" style="border-radius: 4px; border: 1px solid #ff6c37; display: block; margin: 0 auto 15px auto;"/>
+      <code style="color: #ff6c37; font-size: 12px; font-weight: bold; display: block; margin-top: 5px;">USER: ezManish</code>
+      <code style="color: #888888; font-size: 11px; display: block; margin-top: 5px;">ROLE: BACKEND_ENGINEER</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezManish&show_icons=true&theme=dark&title_color=ff6c37&icon_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="GitHub Stats" width="48%"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezManish&layout=compact&theme=dark&title_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="Top Languages" width="48%"/>
+</div>
+
+<br/>
 
 ### Server Infrastructure Telemetry
 * **Runtime Environment:** `Java SE / JVM`

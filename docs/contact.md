@@ -33,18 +33,17 @@
 
 <br/>
 
-**Response Body (application/json):**
-
-```json
-{
-  "channels": {
-    "LinkedIn": "https://linkedin.com/in/manish-kumar-16a2b932a",
-    "Gmail": "mailto:manishkumarmgs019@gmail.com",
-    "GitHub": "https://github.com/ezManish",
-    "StackOverflow": "https://stackoverflow.com/users/32613580"
+<p style="color: #888888; margin-top: 0; font-size: 12px; font-family: monospace;">Response Body (application/json):</p>
+<pre style="background: #151515; border: 1px solid #3c3c3c; border-radius: 6px; padding: 16px; margin: 0; font-family: monospace; font-size: 13px; color: #d4d4d4; text-align: left; line-height: 1.5; overflow-x: auto;">{
+  <span style="color: #9cdcfe;">"channels"</span>: {
+    <span style="color: #9cdcfe;">"LinkedIn"</span>: <span style="color: #ce9178;">"https://linkedin.com/in/manish-kumar-16a2b932a"</span>,
+    <span style="color: #9cdcfe;">"Gmail"</span>: <span style="color: #ce9178;">"mailto:manishkumarmgs019@gmail.com"</span>,
+    <span style="color: #9cdcfe;">"GitHub"</span>: <span style="color: #ce9178;">"https://github.com/ezManish"</span>,
+    <span style="color: #9cdcfe;">"StackOverflow"</span>: <span style="color: #ce9178;">"https://stackoverflow.com/users/32613580"</span>
   }
-}
-```
+}</pre>
+
+<br/>
 
 ### Direct Integration Links
 
