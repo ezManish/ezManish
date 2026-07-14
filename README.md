@@ -35,7 +35,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; font-family: monospace;">
   <tr>
-    <td width="65%" valign="top" style="padding-right: 20px;">
+    <td width="60%" valign="top" style="padding-right: 20px;">
       <p style="color: #888888; margin-top: 0; font-size: 12px; font-family: monospace;">Response Body (application/json):</p>
       <pre style="background: #151515; border: 1px solid #3c3c3c; border-radius: 6px; padding: 16px; margin: 0; font-family: monospace; font-size: 13px; color: #d4d4d4; text-align: left; line-height: 1.5; overflow-x: auto;">{
   <span style="color: #9cdcfe;">"status"</span>: <span style="color: #ce9178;">"success"</span>,
@@ -52,20 +52,22 @@
     ],
     <span style="color: #9cdcfe;">"system_logs"</span>: [
 <!-- START_SECTION:activity -->
+      <span style="color: #ce9178;">"2026-07-14 - feat: add split-pane visuals, telemetry stats, and system logs workflow"</span>,
       <span style="color: #ce9178;">"2026-07-14 - fix: resolve README footer tag bugs and Tic-Tac-Toe grid wrapping"</span>,
       <span style="color: #ce9178;">"2026-07-14 - feat: implement interactive Postman REST client and static Tic-Tac-Toe game"</span>,
       <span style="color: #ce9178;">"2026-07-14 - Start new styling work"</span>,
-      <span style="color: #ce9178;">"2026-07-11 - chore : updated id card image (me_ascii.png)"</span>,
-      <span style="color: #ce9178;">"2026-07-11 - feat : added me_ascii.png for id card"</span>
+      <span style="color: #ce9178;">"2026-07-11 - chore : updated id card image (me_ascii.png)"</span>
 <!-- END_SECTION:activity -->
     ]
   }
 }</pre>
     </td>
-    <td width="35%" align="center" valign="middle" bgcolor="#1a1a1a" style="border: 1px solid #3c3c3c; border-radius: 8px; padding: 20px; box-sizing: border-box; text-align: center;">
-      <img src="assets/me_ascii.png" width="130" alt="Manish Kumar" style="border-radius: 4px; border: 1px solid #ff6c37; display: block; margin: 0 auto 15px auto;"/>
-      <code style="color: #ff6c37; font-size: 12px; font-weight: bold; display: block; margin-top: 5px;">USER: ezManish</code>
-      <code style="color: #888888; font-size: 11px; display: block; margin-top: 5px;">ROLE: BACKEND_ENGINEER</code>
+    <td width="40%" align="center" valign="middle" bgcolor="#1a1a1a" style="border: 1px solid #3c3c3c; border-radius: 8px; padding: 24px; box-sizing: border-box; text-align: center;">
+      <img src="assets/me_ascii.png" width="180" alt="Manish Kumar" style="border-radius: 4px; border: 1px solid #ff6c37; display: block; margin: 0 auto 15px auto;"/>
+      <div style="margin-top: 15px; font-family: monospace; text-align: center;">
+        <span style="color: #ff6c37; font-size: 13px; font-weight: bold; display: block; margin-bottom: 6px; letter-spacing: 0.5px;">USER: ezManish</span>
+        <span style="color: #888888; font-size: 11px; display: block; letter-spacing: 0.5px;">ROLE: BACKEND_ENGINEER</span>
+      </div>
     </td>
   </tr>
 </table>
@@ -73,9 +75,9 @@
 <br/>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezManish&show_icons=true&theme=dark&title_color=ff6c37&icon_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=ezManish&show_icons=true&theme=dark&title_color=ff6c37&icon_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="GitHub Stats" width="48%"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezManish&layout=compact&theme=dark&title_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ezManish&layout=compact&theme=dark&title_color=ff6c37&text_color=d4d4d4&bg_color=151515&border_color=3c3c3c" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
